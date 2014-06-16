@@ -2,7 +2,7 @@
   "name": "phpeclipse-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "PHPEclipse inpired syntax coloring",
+  "description": "PHPeclipse inspired syntax coloring",
   "repository": "https://github.com/rtconner/phpeclipse-syntax",
   "license": "MIT",
   "engines": {
