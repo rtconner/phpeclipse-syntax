@@ -1,0 +1,11 @@
+{
+  "name": "phpeclipse-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "PHPEclipse inpired syntax coloring",
+  "repository": "https://github.com/rtconner/conner-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
